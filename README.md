@@ -73,22 +73,22 @@ Each folder contains resources used during various modules of the training.
 
 ---
 
-[Install Power BI Desktop](https://powerbi.microsoft.com/desktop)
-Download the latest version
+
 
 📁 Power BI Project
-[Calendar](https://github.com/Daheltechies25/Power-BI/blob/main/Calendar%20Table.txt)
-[Dictionary](https://github.com/Daheltechies25/Power-BI/blob/main/Data%20Dictionary%20for%20Logistics%20company.xlsx)
-[Hotel Revenue Task](https://github.com/Daheltechies25/Power-BI/blob/main/Hotel%20Revenue%20Task.xlsx)
-[Instruction from Yusen Logistics](https://github.com/Daheltechies25/Power-BI/blob/main/Instruction%20from%20Yusen%20Logistics.docx)
+- [Calendar](https://github.com/Daheltechies25/Power-BI/blob/main/Calendar%20Table.txt)
+- [Dictionary](https://github.com/Daheltechies25/Power-BI/blob/main/Data%20Dictionary%20for%20Logistics%20company.xlsx)
+- [Hotel Revenue Task](https://github.com/Daheltechies25/Power-BI/blob/main/Hotel%20Revenue%20Task.xlsx)
+- [Instruction from Yusen Logistics](https://github.com/Daheltechies25/Power-BI/blob/main/Instruction%20from%20Yusen%20Logistics.docx)
 
 ## 📘 Additional Resources
+- [Install Power BI Desktop](https://powerbi.microsoft.com/desktop)
 - [Official Microsoft Learn for Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
 - [DAX Guide](https://dax.guide)
 - [Power Query M Reference](https://learn.microsoft.com/en-us/powerquery-m/)
 
 
-## 🤝 About Dahel Consultants and Techies
+## About Dahel Consultants and Techies
 Dahel Consultants and Techies is a forward-thinking IT and analytics training institute dedicated to building next-generation data professionals in Nigeria and across Africa. Through practical, project-based courses in data analysis, business intelligence, and digital transformation, we help students and professionals accelerate their careers.
 
 
