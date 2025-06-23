@@ -49,13 +49,12 @@ Each folder contains resources used during various modules of the training.
 [ClassDemo 2.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/GeographyEurope.xlsx)
 [ClassDemo 3.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/GeographyNorthAmerica.xlsx)
 [ClassDemo 4.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/PowerBIData.html)
-[SalesDashboard.pbix]
 
 📁 Exercises
-DAX_Practice.pbix
+[DAX_Practice.pbix](https://www.wiseowl.co.uk/power-bi/exercises/dax/)
 
 📁 Documentation
----
+--- [Intro To DAX](https://github.com/Daheltechies25/Power-BI/blob/main/Introduction%20to%20DAX.pdf)
 
 ## 🗓️ Training Curriculum
 
@@ -71,8 +70,14 @@ DAX_Practice.pbix
 
 ---
 
-Install Power BI Desktop:
-Download the latest version from https://powerbi.microsoft.com/desktop
+[Install Power BI Desktop](https://powerbi.microsoft.com/desktop)
+Download the latest version
+
+📁 Power BI Project
+[Calendar](https://github.com/Daheltechies25/Power-BI/blob/main/Calendar%20Table.txt)
+[Dictionary](https://github.com/Daheltechies25/Power-BI/blob/main/Data%20Dictionary%20for%20Logistics%20company.xlsx)
+[Hotel Revenue Task](https://github.com/Daheltechies25/Power-BI/blob/main/Hotel%20Revenue%20Task.xlsx)
+[Instruction from Yusen Logistics](https://github.com/Daheltechies25/Power-BI/blob/main/Instruction%20from%20Yusen%20Logistics.docx)
 
 ## 📘 Additional Resources
 - [Official Microsoft Learn for Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
