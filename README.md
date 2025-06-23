@@ -1,4 +1,4 @@
-# 📊 Power BI Training Program  
+## 📊 Power BI Training Program  
 **By Dahel Consultants and Techies**  
 *Instructor: Effiong Lesley Akpan – Microsoft Certified Power BI Data Analyst Associate*
 
@@ -52,10 +52,10 @@ Each folder contains resources used during various modules of the training.
   
 ---
 📁 Exercises
-[DAX_Practice.pbix](https://www.wiseowl.co.uk/power-bi/exercises/dax/)
+- [DAX_Practice.pbix](https://www.wiseowl.co.uk/power-bi/exercises/dax/)
 
 📁 Documentation
-[Intro To DAX](https://github.com/Daheltechies25/Power-BI/blob/main/Introduction%20to%20DAX.pdf)
+- [Intro To DAX](https://github.com/Daheltechies25/Power-BI/blob/main/Introduction%20to%20DAX.pdf)
 
 ---
 
