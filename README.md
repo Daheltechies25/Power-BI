@@ -4,7 +4,7 @@
 
 ---
 
-## 🏫 About the Program
+## About the Program
 
 This repository is part of the Power BI training curriculum offered by **Dahel Consultants and Techies**, designed to equip learners with the practical and technical skills needed to excel in business intelligence and data analytics using Power BI.
 
@@ -12,7 +12,7 @@ Whether you're a beginner or transitioning into a data-focused role, this course
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this training, participants will be able to:
 - Understand the Power BI ecosystem and workflow
