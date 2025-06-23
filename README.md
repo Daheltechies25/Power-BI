@@ -41,7 +41,7 @@ Each folder contains resources used during various modules of the training.
 
 ## 🔗 Quick Access Links
 📁 Datasets
-[SampleSuperstore.xlsx](https://github.com/Daheltechies25/Power-BI/raw/main/sample_-_superstore.xls)
+- [SampleSuperstore.xlsx](https://github.com/Daheltechies25/Power-BI/raw/main/sample_-_superstore.xls)
 
 📁 PowerBI_Files
 - [ClassDemo 1.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/Employees.csv)
