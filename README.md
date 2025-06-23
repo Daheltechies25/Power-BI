@@ -44,17 +44,20 @@ Each folder contains resources used during various modules of the training.
 [SampleSuperstore.xlsx](https://github.com/Daheltechies25/Power-BI/raw/main/sample_-_superstore.xls)
 
 📁 PowerBI_Files
--[ClassDemo 1.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/Employees.csv)
--[ClassDemo 2.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/GeographyAsia.xlsx)
--[ClassDemo 2.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/GeographyEurope.xlsx)
--[ClassDemo 3.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/GeographyNorthAmerica.xlsx)
--[ClassDemo 4.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/PowerBIData.html)
-
+- [ClassDemo 1.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/Employees.csv)
+- [ClassDemo 2.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/GeographyAsia.xlsx)
+- [ClassDemo 2.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/GeographyEurope.xlsx)
+- [ClassDemo 3.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/GeographyNorthAmerica.xlsx)
+- [ClassDemo 4.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/PowerBIData.html)
+  
+---
 📁 Exercises
 [DAX_Practice.pbix](https://www.wiseowl.co.uk/power-bi/exercises/dax/)
 
 📁 Documentation
 [Intro To DAX](https://github.com/Daheltechies25/Power-BI/blob/main/Introduction%20to%20DAX.pdf)
+
+---
 
 ## 🗓️ Training Curriculum
 
