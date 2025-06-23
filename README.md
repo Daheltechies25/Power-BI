@@ -26,7 +26,7 @@ By the end of this training, participants will be able to:
 ## 🧱 Repository Structure
 ```text
 📁 Datasets/
-└── [SampleSuperstore.xlsx](https://github.com/Daheltechies25/Power-BI/blob/main/sample_-_superstore.xls)
+└── SampleSuperstore.xlsx
 📁 PowerBI_Files/
 └── ClassDemo.pbix
 └── SalesDashboard.pbix
@@ -38,6 +38,23 @@ By the end of this training, participants will be able to:
 ```
 Each folder contains resources used during various modules of the training.
 
+
+## 🔗 Quick Access Links
+📁 Datasets
+[SampleSuperstore.xlsx](https://github.com/Daheltechies25/Power-BI/raw/main/sample_-_superstore.xls)
+
+📁 PowerBI_Files
+[ClassDemo 1.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/Employees.csv)
+[ClassDemo 2.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/GeographyAsia.xlsx)
+[ClassDemo 2.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/GeographyEurope.xlsx)
+[ClassDemo 3.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/GeographyNorthAmerica.xlsx)
+[ClassDemo 4.pbix](https://github.com/Daheltechies25/Power-BI/blob/main/PowerBIData.html)
+[SalesDashboard.pbix]
+
+📁 Exercises
+DAX_Practice.pbix
+
+📁 Documentation
 ---
 
 ## 🗓️ Training Curriculum
