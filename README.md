@@ -1,4 +1,4 @@
-#  Power BI Training Program  
+# 📊 Power BI Training Program  
 **By Dahel Consultants and Techies**  
 *Instructor: Effiong Lesley Akpan – Microsoft Certified Power BI Data Analyst Associate*
 
@@ -24,7 +24,7 @@ By the end of this training, participants will be able to:
 ---
 
 ## 🧱 Repository Structure
-
+```text
 📁 Datasets/
 └── SampleSuperstore.xlsx
 📁 PowerBI_Files/
@@ -35,7 +35,7 @@ By the end of this training, participants will be able to:
 📁 Documentation/
 └── PowerBI_Tips_and_Notes.md
 📄 README.md
-
+```
 Each folder contains resources used during various modules of the training.
 
 ---
