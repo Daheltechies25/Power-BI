@@ -57,9 +57,15 @@ Each folder contains resources used during various modules of the training.
 Install Power BI Desktop:
 Download the latest version from https://powerbi.microsoft.com/desktop
 
-📘 Additional Resources
-[Official Microsoft Learn for Power BI] (https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
-DAX Guide
+## 📘 Additional Resources
+[Official Microsoft Learn for Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
+DAX Guide 
 Power Query M Reference
 Sample Datasets – Kaggle
+
+🤝 About Dahel Consultants and Techies
+Dahel Consultants and Techies is a forward-thinking IT and analytics training institute dedicated to building next-generation data professionals in Nigeria and across Africa. Through practical, project-based courses in data analysis, business intelligence, and digital transformation, we help students and professionals accelerate their careers.
+
+Learn more at: [Your Institute’s Website/Link]
+Contact: [dahel@email.com or phone number]
 
