@@ -1,6 +1,7 @@
 #  Power BI Training Program  
 **By Dahel Consultants and Techies**  
 *Instructor: Effiong Lesley Akpan – Microsoft Certified Power BI Data Analyst Associate*
+
 ---
 
 ## About the Program
@@ -20,21 +21,45 @@ By the end of this training, participants will be able to:
 - Write effective DAX measures and calculated columns
 - Design interactive reports and dashboards
 - Share and collaborate using Power BI Service
-
 ---
 
 ## 🧱 Repository Structure
 
+📁 Datasets/
+└── SampleSuperstore.xlsx
+📁 PowerBI_Files/
+└── ClassDemo.pbix
+└── SalesDashboard.pbix
+📁 Exercises/
+└── DAX_Practice.pbix
+📁 Documentation/
+└── PowerBI_Tips_and_Notes.md
+📄 README.md
 
-## 📁 Folder Structure
+Each folder contains resources used during various modules of the training.
 
-```text
-├── Datasets/
-│   └── SampleSuperstore.xlsx
-├── Dashboards/
-│   └── SalesDashboard.pbix
-├── Exercises/
-│   └── DAX_Practice.pbix
-├── Notes/
-│   └── PowerBI_Tips.md
-├── README.md
+---
+
+## 🗓️ Training Curriculum
+
+| Module | Topic                    | Key Concepts |
+|--------|--------------------------|--------------|
+| 1      | Introduction to Power BI | Interface, Components, Use Cases |
+| 2      | Data Preparation         | Power Query Editor, Cleaning & Transforming |
+| 3      | Data Modeling            | Relationships, Star Schema, Normalization |
+| 4      | DAX Fundamentals         | Calculated Columns, Measures, Aggregations |
+| 5      | Data Visualization       | Charts, KPIs, Filters, Drill-Through |
+| 6      | Report Deployment        | Publishing to Power BI Service, Sharing, Workspaces |
+| 7      | Project Work             | Real-world Scenario Implementation |
+
+---
+
+Install Power BI Desktop:
+Download the latest version from https://powerbi.microsoft.com/desktop
+
+📘 Additional Resources
+[Official Microsoft Learn for Power BI] (https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
+DAX Guide
+Power Query M Reference
+Sample Datasets – Kaggle
+
