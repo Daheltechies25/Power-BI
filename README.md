@@ -26,7 +26,7 @@ By the end of this training, participants will be able to:
 ## 🧱 Repository Structure
 ```text
 📁 Datasets/
-└── SampleSuperstore.xlsx
+└── [SampleSuperstore.xlsx](https://github.com/Daheltechies25/Power-BI/blob/main/sample_-_superstore.xls)
 📁 PowerBI_Files/
 └── ClassDemo.pbix
 └── SalesDashboard.pbix
@@ -58,14 +58,12 @@ Install Power BI Desktop:
 Download the latest version from https://powerbi.microsoft.com/desktop
 
 ## 📘 Additional Resources
-[Official Microsoft Learn for Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
-DAX Guide 
-Power Query M Reference
-Sample Datasets – Kaggle
+- [Official Microsoft Learn for Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi)
+- [DAX Guide](https://dax.guide)
+- [Power Query M Reference](https://learn.microsoft.com/en-us/powerquery-m/)
 
-🤝 About Dahel Consultants and Techies
+
+## 🤝 About Dahel Consultants and Techies
 Dahel Consultants and Techies is a forward-thinking IT and analytics training institute dedicated to building next-generation data professionals in Nigeria and across Africa. Through practical, project-based courses in data analysis, business intelligence, and digital transformation, we help students and professionals accelerate their careers.
 
-Learn more at: [Your Institute’s Website/Link]
-Contact: [dahel@email.com or phone number]
 
