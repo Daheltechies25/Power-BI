@@ -1,6 +1,7 @@
-# 📊 Power BI Training Program  
+#  Power BI Training Program  
 **By Dahel Consultants and Techies**  
-*Instructor: Effiong Lesley Akpan – Microsoft Certified Power BI Data Analyst Associate*
+*I![1713189386954](https://github.com/user-attachments/assets/d0b03b66-80e8-432c-a591-64c1d3e3f794)
+nstructor: Effiong Lesley Akpan – Microsoft Certified Power BI Data Analyst Associate*
 
 ---
 
