@@ -1,15 +1,13 @@
 #  Power BI Training Program  
 **By Dahel Consultants and Techies**  
-*I![1713189386954](https://github.com/user-attachments/assets/d0b03b66-80e8-432c-a591-64c1d3e3f794)
-nstructor: Effiong Lesley Akpan – Microsoft Certified Power BI Data Analyst Associate*
-
+*Instructor: Effiong Lesley Akpan – Microsoft Certified Power BI Data Analyst Associate*
 ---
 
 ## About the Program
 
 This repository is part of the Power BI training curriculum offered by **Dahel Consultants and Techies**, designed to equip learners with the practical and technical skills needed to excel in business intelligence and data analytics using Power BI.
 
-Whether you're a beginner or transitioning into a data-focused role, this course provides real-world use cases, guided practice, and project-based learning to build your confidence and capability in Power BI.
+You may be a beginner or transitioning into a data-focused role; irrespective of your career progression, this course provides real-world use cases, guided practice, and project-based learning to build your confidence and capability in Power BI.
 
 ---
 
